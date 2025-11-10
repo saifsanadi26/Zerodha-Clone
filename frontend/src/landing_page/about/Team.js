@@ -28,7 +28,7 @@ function Team() {
           </p>
           <p>Coding, teaching, and sharing knowledge is his zen.</p>
           <p>
-            Connect on : <a href="https://www.linkedin.com/in/vinayak-agasimani-669a63282/" style={{textDecoration: "none"}}>Linkedin</a> / <a href="https://github.com/Vinayak-Agasimani" style={{textDecoration: "none"}}>Github</a>
+            Connect on : <a href="https://www.linkedin.com/in/saifsanadi" style={{textDecoration: "none"}}>Linkedin</a> / <a href="https://github.com/saifsanadi26" style={{textDecoration: "none"}}>Github</a>
           </p>
         </div>
       </div>
