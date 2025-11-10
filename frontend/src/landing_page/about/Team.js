@@ -23,9 +23,6 @@ function Team() {
           <p>
             Saif is an innovator and tech enthusiast, building solutions that merge electronics, communication, and real-world problem solving. From IoT-based systems to full-stack applications, he works on projects that aim to create practical impact.
           </p>
-          <p>
-            He is the Vice Chair of the IEEE Student Branch at JCE, actively driving initiatives, workshops, and collaborations in the tech community.
-          </p>
           <p>Coding, teaching, and sharing knowledge is his zen.</p>
           <p>
             Connect on : <a href="https://www.linkedin.com/in/saifsanadi" style={{textDecoration: "none"}}>Linkedin</a> / <a href="https://github.com/saifsanadi26" style={{textDecoration: "none"}}>Github</a>
